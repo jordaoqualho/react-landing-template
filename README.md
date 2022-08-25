@@ -1,1 +1,1 @@
-# react-landing-template
+# React Landing Page Template
